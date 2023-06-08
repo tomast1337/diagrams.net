@@ -1,9 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T19:58:34.403Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.8" etag="aXrYJNw7RaiqBLOBtQnm" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T21:05:30.896Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aATnTxv6jbHGI_cQHdwq" version="21.3.8" type="github">
   <diagram name="Page-1" id="ymEcQPFhfy4B4xUXShgt">
-    <mxGraphModel>
+    <mxGraphModel dx="2805" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-1" value="src&lt;br&gt;" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="80" width="790" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-2" value="&lt;div&gt;router.js&lt;/div&gt;&lt;div&gt;index.js&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;fontStyle=1" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-1">
+          <mxGeometry width="100" height="70" relative="1" as="geometry">
+            <mxPoint x="20" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-3" value="pages" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-1">
+          <mxGeometry x="10" y="120" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-4" value="&lt;div&gt;endereco.js&lt;/div&gt;&lt;div&gt;dashboard.js&lt;/div&gt;&lt;div&gt;statuspedido.js&lt;/div&gt;&lt;div&gt;cadastro.js&lt;/div&gt;&lt;div&gt;perfil.js&lt;/div&gt;&lt;div&gt;login.js&lt;/div&gt;&lt;div&gt;cardapio.js&lt;/div&gt;&lt;div&gt;adicionaritem.js&lt;/div&gt;&lt;div&gt;removeritem.js&lt;/div&gt;&lt;div&gt;home.js&lt;/div&gt;&lt;div&gt;carrinho.js&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;fontStyle=1" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-3">
+          <mxGeometry width="72.86" height="156.92" relative="1" as="geometry">
+            <mxPoint x="10" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-5" value="data" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;align=left;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-1">
+          <mxGeometry x="360" y="340" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-6" value="combos.json&#xa;bebidas.json&#xa;sobremesas.json" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;fontStyle=1" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-5">
+          <mxGeometry width="140" height="70" relative="1" as="geometry">
+            <mxPoint x="10" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-7" value="services" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-1">
+          <mxGeometry x="360" y="120" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-8" value="api.js&#xa;backend.js&#xa;carrinho.js" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;fontStyle=1" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-7">
+          <mxGeometry width="140" height="70" relative="1" as="geometry">
+            <mxPoint x="10" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-9" value="styles" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;align=left;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-1">
+          <mxGeometry x="180" y="120" width="150" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-10" value="dashboardRel.scss&#xa;home.scss&#xa;carrinho.scss&#xa;removeritem.scss&#xa;modal.scss&#xa;dashboard.scss&#xa;endereco.scss&#xa;login.scss&#xa;cadastro.scss&#xa;perfil.scss&#xa;reset.scss&#xa;root.scss&#xa;adicionaritem.scss&#xa;cardapio.scss&#xa;statuspedido.scss" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;fontStyle=1" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-9">
+          <mxGeometry width="140" height="210" relative="1" as="geometry">
+            <mxPoint x="10" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-11" value="components" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-1">
+          <mxGeometry x="10" y="420" width="360" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-12" value="Auth.js" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-11">
+          <mxGeometry width="350" height="40" relative="1" as="geometry">
+            <mxPoint x="10" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-18" value="Navbar" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-11">
+          <mxGeometry x="10" y="70" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-19" value="&lt;div&gt;navbar.scss&lt;/div&gt;&lt;div&gt;navData.js&lt;/div&gt;&lt;div&gt;Navbar.js&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;fontStyle=1" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-18">
+          <mxGeometry width="140" height="70" relative="1" as="geometry">
+            <mxPoint x="10" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-20" value="Cabecalho" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-11">
+          <mxGeometry x="10" y="190" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-21" value="&lt;div&gt;cabecalho.js&lt;/div&gt;&lt;div&gt;cabecalho.scss&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;fontStyle=1" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-20">
+          <mxGeometry width="140" height="70" relative="1" as="geometry">
+            <mxPoint x="10" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-22" value="CabecalhoAdm" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-11">
+          <mxGeometry x="10" y="300" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-23" value="cabecalhoadm.scss&#xa;cabecalhoadm.js" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;fontStyle=1" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-22">
+          <mxGeometry width="140" height="70" relative="1" as="geometry">
+            <mxPoint x="10" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-24" value="Botao" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-11">
+          <mxGeometry x="180" y="70" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-25" value="&lt;div&gt;button.css&lt;/div&gt;&lt;div&gt;button.js&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;fontStyle=1" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-24">
+          <mxGeometry width="140" height="70" relative="1" as="geometry">
+            <mxPoint x="10" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-26" value="Item" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-11">
+          <mxGeometry x="180" y="190" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-27" value="Item.js&#xa;item.scss" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;fontStyle=1" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-26">
+          <mxGeometry width="140" height="70" relative="1" as="geometry">
+            <mxPoint x="10" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-15" value="states" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-1">
+          <mxGeometry x="360" y="230" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nx3lQ5HAjnqg4gOpDxmT-16" value="&lt;div&gt;endereco.js&lt;/div&gt;&lt;div&gt;cadastro.js&lt;/div&gt;&lt;div&gt;cardapio.js&lt;/div&gt;&lt;div&gt;carrinho.js&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;fontStyle=1" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-15">
+          <mxGeometry width="150" height="70" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
