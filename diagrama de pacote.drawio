@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T21:07:22.057Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yznQHtuzjYu2FbDT7SKO" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T21:07:50.947Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RRr-FXtxTYD5njFL9-Q2" version="21.3.8" type="github">
   <diagram name="Page-1" id="ymEcQPFhfy4B4xUXShgt">
     <mxGraphModel dx="2805" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,50 +45,50 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nx3lQ5HAjnqg4gOpDxmT-11" value="components" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-1">
-          <mxGeometry x="80" y="490.0029411764706" width="392.53" height="353.72549019607845" as="geometry" />
+          <mxGeometry x="80" y="450" width="392.53" height="393.73" as="geometry" />
         </mxCell>
         <mxCell id="nx3lQ5HAjnqg4gOpDxmT-12" value="Auth.js" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-11">
-          <mxGeometry width="381.62638888888887" height="34.50980392156863" relative="1" as="geometry">
+          <mxGeometry width="381.62638888888887" height="38.41268292682927" relative="1" as="geometry">
             <mxPoint x="10" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nx3lQ5HAjnqg4gOpDxmT-18" value="Navbar" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-11">
-          <mxGeometry x="10.90361111111111" y="60.392156862745104" width="163.55416666666665" height="86.27450980392157" as="geometry" />
+          <mxGeometry x="10.90361111111111" y="67.22219512195122" width="163.55416666666665" height="96.03170731707317" as="geometry" />
         </mxCell>
         <mxCell id="nx3lQ5HAjnqg4gOpDxmT-19" value="&lt;div&gt;navbar.scss&lt;/div&gt;&lt;div&gt;navData.js&lt;/div&gt;&lt;div&gt;Navbar.js&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;fontStyle=1" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-18">
-          <mxGeometry width="152.65055555555554" height="60.392156862745104" relative="1" as="geometry">
+          <mxGeometry width="152.65055555555554" height="67.22219512195122" relative="1" as="geometry">
             <mxPoint x="10" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nx3lQ5HAjnqg4gOpDxmT-20" value="Cabecalho" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-11">
-          <mxGeometry x="10.90361111111111" y="163.921568627451" width="163.55416666666665" height="86.27450980392157" as="geometry" />
+          <mxGeometry x="10.90361111111111" y="182.46024390243903" width="163.55416666666665" height="96.03170731707317" as="geometry" />
         </mxCell>
         <mxCell id="nx3lQ5HAjnqg4gOpDxmT-21" value="&lt;div&gt;cabecalho.js&lt;/div&gt;&lt;div&gt;cabecalho.scss&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;fontStyle=1" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-20">
-          <mxGeometry width="152.65055555555554" height="60.392156862745104" relative="1" as="geometry">
+          <mxGeometry width="152.65055555555554" height="67.22219512195122" relative="1" as="geometry">
             <mxPoint x="10" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nx3lQ5HAjnqg4gOpDxmT-22" value="CabecalhoAdm" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-11">
-          <mxGeometry x="10.90361111111111" y="258.8235294117647" width="163.55416666666665" height="86.27450980392157" as="geometry" />
+          <mxGeometry x="10.90361111111111" y="288.0951219512195" width="163.55416666666665" height="96.03170731707317" as="geometry" />
         </mxCell>
         <mxCell id="nx3lQ5HAjnqg4gOpDxmT-23" value="cabecalhoadm.scss&#xa;cabecalhoadm.js" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;fontStyle=1" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-22">
-          <mxGeometry width="152.65055555555554" height="60.392156862745104" relative="1" as="geometry">
+          <mxGeometry width="152.65055555555554" height="67.22219512195122" relative="1" as="geometry">
             <mxPoint x="10" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nx3lQ5HAjnqg4gOpDxmT-24" value="Botao" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-11">
-          <mxGeometry x="196.265" y="60.392156862745104" width="163.55416666666665" height="86.27450980392157" as="geometry" />
+          <mxGeometry x="196.265" y="67.22219512195122" width="163.55416666666665" height="96.03170731707317" as="geometry" />
         </mxCell>
         <mxCell id="nx3lQ5HAjnqg4gOpDxmT-25" value="&lt;div&gt;button.css&lt;/div&gt;&lt;div&gt;button.js&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;fontStyle=1" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-24">
-          <mxGeometry width="152.65055555555554" height="60.392156862745104" relative="1" as="geometry">
+          <mxGeometry width="152.65055555555554" height="67.22219512195122" relative="1" as="geometry">
             <mxPoint x="10" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nx3lQ5HAjnqg4gOpDxmT-26" value="Item" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-11">
-          <mxGeometry x="196.265" y="163.921568627451" width="163.55416666666665" height="86.27450980392157" as="geometry" />
+          <mxGeometry x="196.265" y="182.46024390243903" width="163.55416666666665" height="96.03170731707317" as="geometry" />
         </mxCell>
         <mxCell id="nx3lQ5HAjnqg4gOpDxmT-27" value="Item.js&#xa;item.scss" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;align=left;fontStyle=1" vertex="1" parent="nx3lQ5HAjnqg4gOpDxmT-26">
-          <mxGeometry width="152.65055555555554" height="60.392156862745104" relative="1" as="geometry">
+          <mxGeometry width="152.65055555555554" height="67.22219512195122" relative="1" as="geometry">
             <mxPoint x="10" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
